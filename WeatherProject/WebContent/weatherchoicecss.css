@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+body{
+	
+ background :url(weatherbg.gif);
+  background-size:cover; 
+  
+}
+h1 {
+	font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    font-style: normal;
+     text-align: center;
+}
+ /* div.choiceform
+{
+ 
+	font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+	 background-color:
+#c0d49e;   
+
+       text-align: center; 
+       
+    }
+  */
